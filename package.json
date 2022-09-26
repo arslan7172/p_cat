@@ -1,0 +1,26 @@
+{
+  "name": "p_cat",
+  "version": "1.0.0",
+  "description": "Pcat photo app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arslan7172/p_cat.git"
+  },
+  "keywords": [
+    "photo",
+    "app"
+  ],
+  "author": "Arsi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arslan7172/p_cat/issues"
+  },
+  "homepage": "https://github.com/arslan7172/p_cat#readme",
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
